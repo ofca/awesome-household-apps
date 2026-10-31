@@ -16,6 +16,7 @@ projects.
 - [Notes and Checklists](#notes-and-checklists)
 - [Plant Care](#plant-care)
 - [Events and Guest Lists](#events-and-guest-lists)
+- [Family Screen Time](#family-screen-time)
 - [Contributing](#contributing)
 
 ## All-in-one Household Organizers
@@ -79,6 +80,10 @@ projects.
 - [RSVPify](https://rsvpify.com) - RSVP and guest management for weddings and events.
 - [The Knot](https://www.theknot.com) - Wedding planning platform with guest list and RSVPs.
 - [Zola](https://www.zola.com) - Wedding planning with guest list, RSVPs, website and registry.
+
+## Family Screen Time
+
+- [Ripple](https://ripplefocus.github.io/) - Free screen time scheduler for Android and iPhone that blocks short videos and games at set hours, with a parent unlock code and uninstall protection.
 
 ## Contributing
 
